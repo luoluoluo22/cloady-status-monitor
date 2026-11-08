@@ -1,0 +1,12 @@
+{
+  "name": "cloady-status-monitor",
+  "version": "1.0.0",
+  "description": "24/7 Real-time server status and uptime monitor for Cloady JPN1 node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["uptime", "monitor", "cloady", "status"],
+  "author": "luoluoluo22",
+  "license": "MIT"
+}
